@@ -1,0 +1,14 @@
+/* ==========================================================================
+Main page styles
+========================================================================== */
+.login, .send-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.btn-send, input{
+  margin-left: 5px;
+}
